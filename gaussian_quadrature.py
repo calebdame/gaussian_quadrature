@@ -1,9 +1,5 @@
 # quassian_quadrature.py
-"""Volume 2: Gaussian Quadrature.
-Caleb Dame
-Section 2?
-1/22/2020
-"""
+
 
 import numpy as np
 import scipy as sp
